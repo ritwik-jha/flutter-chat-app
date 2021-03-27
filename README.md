@@ -1,4 +1,4 @@
-# CHAT-X
+# CHAT X
 This app is created using flutter.
 The app uses firebase at backend.
 The app uses firebase authentication for creating account on the app and the user can use that 
