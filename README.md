@@ -1,6 +1,5 @@
 # CHAT X
-This app is created using flutter.
-The app uses firebase at backend.
+The flutter app uses firebase at backend.
 The app uses firebase authentication for creating account on the app and the user can use that 
 user name and password to login.
 Further we created the chat room using streambuilder fetching data from firebase firestore. 
